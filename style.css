@@ -120,6 +120,9 @@ a {
   border: none;
   outline: none;
 }
+top-genres{
+  position:relative;
+}
 #top-genres > div {
   font-size: 2rem;
   font-weight: bold;
@@ -130,9 +133,10 @@ a {
   border-radius: 10px;
 }
 #top-genres img {
-  position: fixed;
-  top: 205px;
-  right: 20px;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translate(-50%, -50%);
 }
 .genre-card1 {
   background-color: #8d67ab;
