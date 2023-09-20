@@ -120,7 +120,7 @@ a {
   border: none;
   outline: none;
 }
-top-genres{
+#top-genres{
   position:relative;
 }
 #top-genres > div {
