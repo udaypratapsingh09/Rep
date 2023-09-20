@@ -136,7 +136,7 @@ top-genres{
   position: absolute;
   top: 50%;
   right: 0;
-  transform: translate(-50%, -50%);
+  transform: translateY(-50%);
 }
 .genre-card1 {
   background-color: #8d67ab;
