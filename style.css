@@ -120,8 +120,8 @@ a {
   border: none;
   outline: none;
 }
-#top-genres{
-  position:relative;
+#top-genres {
+  position: relative;
 }
 #top-genres > div {
   font-size: 2rem;
@@ -152,7 +152,6 @@ a {
   flex-basis: 25%;
   height: 23vh;
   border-radius: 5px;
-  /* flex-shrink: 0; */
 }
 .browse-card1 {
   background-color: #27856a;
